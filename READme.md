@@ -1,1 +1,1 @@
-*Ecommerce static website trial
+* Ecommerce static website trial
